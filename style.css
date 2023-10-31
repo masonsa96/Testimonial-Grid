@@ -159,6 +159,10 @@ body {
     background-color: var(--very-dark-blackish-blue);
 }
 
+.card-patrick img {
+    outline: 1px solid var(--moderate-violet);
+}
+
 .card-kira {
     grid-column: 4 / 5;
     grid-row: 1 / 3;
